@@ -1,2 +1,2 @@
-# Portifolio
-Portfolio feito com HTML e CSS
+# Portfólio
+Portfólio feito com HTML e CSS 
